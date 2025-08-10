@@ -1,0 +1,132 @@
+{
+    "status_code": 200,
+    "message": "Data fetched successfully.",
+    "data": [
+        {
+            "coordinates": [[-81.41, 32.14], [-81.39999999999999, 32.14], [-81.38999999999999, 32.1], [-81.19999999999999, 32.24], [-81.13999999999999, 32.2299999], [-81.14999999999999, 32.220000000000006], [-81.10999999999999, 32.2], [-81.11999999999999, 32.190000000000005], [-81.11999999999999, 32.18000000000001], [-81.10999999999999, 32.18000000000001], [-81.12999999999998, 32.17000000000001], [-81.10999999999999, 32.150000000000006], [-81.11999999999999, 32.120000000000005], [-81.05999999999999, 32.09], [-81.02999999999999, 32.09], [-81.00999999999999, 32.02], [-81.16, 31.790000000000003], [-81.35, 31.970000000000002], [-81.41, 32.14]],
+            "messageType": "Alert",
+            "event": "Flood Advisory",
+            "headline": "Flood Advisory issued August 5 at 4:35PM EDT until August 5 at 6:30PM EDT by NWS Charleston SC", 
+            "areaDesc": "Bryan, GA; Chatham, GA"
+        },
+        {
+            "coordinates": [[-81.44, 31.73], [-81.35, 31.97], [-81.28999999999999, 31.959999999999997], [-81.25999999999999, 31.909999999999997], [-81.22999999999999, 31.909999999999997], [-81.24, 31.889999999999997], [-81.22, 31.909999999999997], [-81.22, 31.889999999999997], [-81.16, 31.889999999999997], [-81.14, 31.859999999999996], [-81.18, 31.819999999999997], [-81.16000000000001, 31.789999999999996], [-81.17000000000002, 31.759999999999994], [-81.16000000000001, 31.709999999999994], [-81.12, 31.729999999999993], [-81.11, 31.709999999999994], [-81.11, 31.649999999999995], [-81.28, 31.339999999999996], [-81.45, 31.389999999999997], [-81.48, 31.499999999999996], [-81.44, 31.73]], 
+            "messageType": "Alert", 
+            "event": "Flood Advisory", 
+            "headline": "Flood Advisory issued August 5 at 4:31PM EDT until August 5 at 6:30PM EDT by NWS Charleston SC", 
+            "areaDesc": "Bryan, GA; Liberty, GA; McIntosh, GA"
+        },
+        {
+            "coordinates": [[-83, 30.86], [-83.01, 30.849999999999998], [-83.09, 30.849999999999998], [-83.09, 30.83], [-83.10000000000001, 30.83], [-83.10000000000001, 30.799999999999997], [-83.12, 30.799999999999997], [-83.13000000000001, 30.789999999999996], [-83.14000000000001, 30.739999999999995], [-83.20999990000001, 30.709999999999994], [-83.34000000000002, 30.909999999999993], [-82.97000000000001, 31.099999999999994], [-82.97000000000001, 30.869999999999994], [-83, 30.86]], 
+            "messageType": "Alert", 
+            "event": "Special Weather Statement", 
+            "headline": "Special Weather Statement issued August 5 at 4:29PM EDT by NWS Tallahassee FL", 
+            "areaDesc": "Lowndes; Lanier"
+        }, 
+        {
+            "coordinates": [[-82.34, 31.61], [-82.23, 31.759999999999998], [-82.0699999, 31.709999999999997], [-82.2, 31.509999999999998], [-82.34, 31.29], [-82.51, 31.36], [-82.34, 31.61]], 
+            "messageType": "Alert", 
+            "event": "Flood Advisory", 
+            "headline": "Flood Advisory issued August 5 at 4:24PM EDT until August 5 at 6:30PM EDT by NWS Jacksonville FL", 
+            "areaDesc": "Appling, GA; Bacon, GA; Pierce, GA; Ware, GA; Wayne, GA"
+        },
+        {
+            "coordinates": [[-82.13, 30.31], [-82.19, 30.459999999999997], [-81.9599999, 30.619999999999997], [-81.83, 30.38], [-82.13, 30.31]], 
+            "messageType": "Alert", 
+            "event": "Special Weather Statement", 
+            "headline": "Special Weather Statement issued August 5 at 4:24PM EDT by NWS Jacksonville FL", 
+            "areaDesc": "Baker; Inland Nassau; Western Duval; Western Charlton"
+        },
+        {
+            "coordinates": [[-83.75, 30.76], [-84.08, 30.76], [-84.08, 30.860000000000003], [-84.0699999, 30.870000000000005], [-84.08, 30.880000000000006], [-84.08, 30.950000000000006], [-83.78999999999999, 31.020000000000007], [-83.75, 30.76]], 
+            "messageType": "Alert", 
+            "event": "Special Weather Statement", 
+            "headline": "Special Weather Statement issued August 5 at 4:18PM EDT by NWS Tallahassee FL", 
+            "areaDesc": "Thomas"
+        },
+        {
+            "coordinates": [[-82.14, 31.02], [-82.01, 31.169999999999998], [-81.91000000000001, 31.119999999999997], [-81.95000000000002, 31.04], [-82.08000000000001, 30.9], [-82.18, 30.97], [-82.14, 31.009999999999998], [-82.14, 31.02]], 
+            "messageType": "Alert", 
+            "event": "Flood Advisory", 
+            "headline": "Flood Advisory issued August 5 at 4:15PM EDT until August 5 at 6:15PM EDT by NWS Jacksonville FL", 
+            "areaDesc": "Brantley, GA; Charlton, GA"
+        }, 
+        {
+            "coordinates": [[-81.3, 31.76], [-81.53, 31.720000000000002], [-81.64, 31.770000000000003], [-81.64, 31.790000000000003], [-81.67, 31.810000000000002], [-81.68, 31.94], [-81.77000000000001, 32.04], [-81.76, 32.05], [-81.77000000000001, 32.05], [-81.88000000000001, 32.169999999999995], [-81.50000000000001, 32.349999999999994], [-81.49000000000001, 32.32999999999999], [-81.47000000000001, 32.32999999999999], [-81.44000000000001, 32.26999999999999], [-81.41000000000001, 32.18999999999999], [-81.41000000000001, 32.15999989999999], [-81.4, 32.14999999999999], [-81.4, 32.10999999999999], [-81.39, 32.099999999999994], [-81.36, 32.029999999999994], [-81.3, 31.76]], 
+            "messageType": "Alert", 
+            "event": "Special Weather Statement", 
+            "headline": "Special Weather Statement issued August 5 at 4:12PM EDT by NWS Charleston SC", 
+            "areaDesc": "Bulloch; Evans; Inland Bryan; Inland Liberty"
+        }, 
+        {
+            "coordinates": [[-84.36, 31.77], [-84.4, 31.91], [-84.38000000000001, 31.91], [-84.34, 31.87], [-84.34, 31.91], [-84.12, 31.91], [-84.0699999, 31.67], [-84.28, 31.51], [-84.37, 31.470000000000002], [-84.4, 31.580000000000002], [-84.37, 31.66], [-84.36, 31.77]], 
+            "messageType": "Alert", 
+            "event": "Flood Advisory", 
+            "headline": "Flood Advisory issued August 5 at 4:03PM EDT until August 5 at 6:00PM EDT by NWS Tallahassee FL", 
+            "areaDesc": "Dougherty, GA; Lee, GA; Terrell, GA"
+        }, 
+        {
+            "coordinates": [[-82.29, 31.3], [-82.53, 31.51], [-82.49, 31.680000000000003], [-82.27, 31.870000000000005], [-82.14, 31.770000000000003], [-82.01, 31.590000000000003], [-82.29, 31.3]],
+            "messageType": "Alert", 
+            "event": "Special Weather Statement", 
+            "headline": "Special Weather Statement issued August 5 at 4:02PM EDT by NWS Jacksonville FL", 
+            "areaDesc": "Bacon; Appling; Wayne; Pierce"
+        }, 
+        {
+            "coordinates": [[-81.25, 31.19], [-81.37, 31.1], [-81.38000000000001, 31.040000000000003], [-81.56000000000002, 31.040000000000003], [-81.55000000000001, 31.380000000000003], [-81.47000000000001, 31.330000000000002], [-81.47000000000001, 31.340000000000003], [-81.45000000000002, 31.330000000000002], [-81.44000000000001, 31.330000000000002], [-81.44000000000001, 31.310000000000002], [-81.39000000000001, 31.28], [-81.39000000000001, 31.290000000000003], [-81.38000000000001, 31.28], [-81.37, 31.3], [-81.34, 31.310000000000002], [-81.3199999, 31.28], [-81.26, 31.28], [-81.22, 31.27], [-81.25, 31.19]], 
+            "messageType": "Alert", 
+            "event": "Special Weather Statement", 
+            "headline": "Special Weather Statement issued August 5 at 3:59PM EDT by NWS Jacksonville FL", 
+            "areaDesc": "Inland Glynn; Coastal Glynn; Coastal Camden"
+        }, 
+        {
+            "coordinates": [[-83.72, 32.9], [-83.67, 32.93], [-83.56, 32.82], [-83.53, 32.6599999], [-83.59, 32.63], [-83.63000000000001, 32.74], [-83.72, 32.9]], 
+            "messageType": "Update", 
+            "event": "Flood Warning", 
+            "headline": "Flood Warning issued August 5 at 3:06PM EDT until August 8 at 10:34PM EDT by NWS Peachtree City GA", 
+            "areaDesc": "Bibb, GA; Houston, GA; Jones, GA; Twiggs, GA"
+        }, 
+        {
+            "coordinates": [[-84.13, 31.21], [-84.24, 31.23], [-84.25, 31.31], [-84.12, 31.38], [-84.03, 31.32], [-84.06, 31.25], [-84.13, 31.21]], 
+            "messageType": "Alert", 
+            "event": "Flood Advisory", 
+            "headline": "Flood Advisory issued August 5 at 3:00PM EDT until August 5 at 5:00PM EDT by NWS Tallahassee FL", 
+            "areaDesc": "Mitchell, GA"
+        }, 
+        {
+            "coordinates": null, 
+            "messageType": "Update", 
+            "event": "Flood Watch", 
+            "headline": "Flood Watch issued August 5 at 2:08PM EDT until August 6 at 8:00PM EDT by NWS Tallahassee FL", 
+            "areaDesc": "Henry; Geneva; Houston; Quitman; Clay; Randolph; Calhoun; Terrell; Dougherty; Lee; Worth; Turner; Tift; Ben Hill; Irwin; Early; Miller; Baker; Mitchell; Colquitt"
+        }, 
+        {
+            "coordinates": [[-83.61, 31.89], [-83.64, 31.87], [-83.66, 31.89], [-83.64, 31.94], [-83.61, 31.970000000000002], [-83.55, 32.050000000000004], [-83.50999999999999, 32.040000000000006], [-83.49, 31.980000000000008], [-83.55, 31.930000000000007], [-83.61, 31.89]], 
+            "messageType": "Alert", 
+            "event": "Flash Flood Warning", 
+            "headline": "Flash Flood Warning issued August 5 at 1:25PM EDT until August 5 at 7:30PM EDT by NWS Peachtree City GA", 
+            "areaDesc": "Crisp, GA; Wilcox, GA"
+        }, 
+        {
+            "coordinates": [[-83.73, 31.8], [-83.69, 32.12], [-83.59, 32.22], [-83.4599999, 32.229999899999996], [-83.31, 32.19], [-83.31, 32.169999999999995], [-83.3199999, 32.14999999999999], [-83.31, 32.12999999999999], [-83.34, 32.109999999999985], [-83.3199999, 32.08999999999998], [-83.31, 32.08999999999998], [-83.3, 32.079999999999984], [-83.3, 32.04999999999998], [-83.31, 32.04999999999998], [-83.29, 32.02999999999998], [-83.30000000000001, 32.00999999999998], [-83.29, 31.999999999999975], [-83.27000000000001, 31.849999999999977], [-83.61000000000001, 31.849999999999977], [-83.61000000000001, 31.799999999999976], [-83.73, 31.8]],
+            "messageType": "Alert",
+            "event": "Flash Flood Warning",
+            "headline": "Flash Flood Warning issued August 5 at 12:54PM EDT until August 5 at 7:00PM EDT by NWS Peachtree City GA",
+            "areaDesc": "Crisp, GA; Dooly, GA; Pulaski, GA; Wilcox, GA"
+        },
+        {
+            "coordinates": [[-83.94, 33.9099999], [-83.92, 33.940000000000005], [-83.88, 33.96000000000001], [-83.74, 33.830000000000005], [-83.78999999999999, 33.790000000000006], [-83.94, 33.9099999]],
+            "messageType": "Alert",
+            "event": "Flood Warning",
+            "headline": "Flood Warning issued August 5 at 12:22PM EDT until August 5 at 8:00PM EDT by NWS Peachtree City GA",
+            "areaDesc": "Gwinnett, GA; Walton, GA"
+        },
+        {
+            "coordinates": null, 
+            "messageType": "Update", 
+            "event": "Flood Watch", 
+            "headline": "Flood Watch issued August 5 at 12:06PM EDT until August 6 at 8:00PM EDT by NWS Peachtree City GA", 
+            "areaDesc": "Fannin; Gilmer; Union; Towns; Dawson; Lumpkin; White; Forsyth; Hall; Banks; Jackson; Madison; North Fulton; Gwinnett; Barrow; Clarke; Oconee; Oglethorpe; Wilkes; South Fulton; DeKalb; Rockdale; Walton; Newton; Morgan; Greene; Taliaferro; Coweta; Fayette; Clayton; Spalding; Henry; Butts; Jasper; Putnam; Hancock; Warren; Troup; Meriwether; Pike; Upson; Lamar; Monroe; Jones; Baldwin; Washington; Glascock; Jefferson; Harris; Talbot; Taylor; Crawford; Bibb; Twiggs; Wilkinson; Johnson; Emanuel; Muscogee; Chattahoochee; Marion; Schley; Macon; Peach; Houston; Bleckley; Laurens; Treutlen; Stewart; Webster; Sumter; Dooly; Crisp; Pulaski; Wilcox; Dodge; Telfair; Wheeler; Montgomery; Toombs"
+        }
+    ]
+}
