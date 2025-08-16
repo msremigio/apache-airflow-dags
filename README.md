@@ -39,7 +39,7 @@ This project provides an ETL pipeline using [Apache Airflow](https://airflow.apa
 
 1. **Clone the repository**  
    ```sh
-   git clone <your-repo-url>
+   git clone <https://github.com/msremigio/apache-airflow-dags.git>
    cd docker-run-airflow
    ```
 
@@ -48,24 +48,24 @@ This project provides an ETL pipeline using [Apache Airflow](https://airflow.apa
 
 3. **Configuration & Credentials**
 
-  3.1 **Database Connection**:  
-    The PostgreSQL database credentials (`POSTGRES_USER`, `POSTGRES_PASSWORD`, `POSTGRES_DB`) and port mapping are configured in [`docker-compose.yaml`](docker-compose.yaml).  
-    Default values:
-    - User: `airflow`
-    - Password: `airflow`
-    - Database: `airflow`
-    - Port: `5000` (host) → `5432` (container)
+3.1 **Database Connection**:  
+  The PostgreSQL database credentials (`POSTGRES_USER`, `POSTGRES_PASSWORD`, `POSTGRES_DB`) and port mapping are configured in [`docker-compose.yaml`](docker-compose.yaml).  
+  Default values:
+  - User: `airflow`
+  - Password: `airflow`
+  - Database: `airflow`
+  - Port: `5000` (host) → `5432` (container)
 
-  3.2 **Airflow Admin Login**:  
-    The admin username and password for the Airflow web interface are set in your Airflow configuration file ([`config/airflow.cfg`](config/airflow.cfg)).  
-    Default values:
-    - Username: `airflow`
-    - Password: `airflow`
+3.2 **Airflow Admin Login**:  
+  The admin username and password for the Airflow web interface are set in your Airflow configuration file ([`config/airflow.cfg`](config/airflow.cfg)).  
+  Default values:
+  - Username: `airflow`
+  - Password: `airflow`
 
-  3.3 **pgAdmin Login**:  
-    Credentials for pgAdmin are set in [`docker-compose.yaml`](docker-compose.yaml):
-    - Email: `admin@admin.com`
-    - Password: `admin`
+3.3 **pgAdmin Login**:  
+  Credentials for pgAdmin are set in [`docker-compose.yaml`](docker-compose.yaml):
+  - Email: `admin@admin.com`
+  - Password: `admin`
 
 > **Tip:**  
 > Always review and update these credentials for production deployments to ensure
