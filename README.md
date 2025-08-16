@@ -2,6 +2,11 @@
 
 This project provides an ETL pipeline using [Apache Airflow](https://airflow.apache.org/) to collect weather alerts from the [weather.gov API](https://api.weather.gov), transform the data, and load it into a PostgreSQL database. The environment is orchestrated using Docker Compose.
 
+## Author
+
+Matheus Remigio  
+Contact: matheus.remido@gmail.com
+
 ## Features
 
 - **ETL DAGs**: Automated workflows for extracting, transforming, and loading weather alert data.
@@ -39,7 +44,7 @@ This project provides an ETL pipeline using [Apache Airflow](https://airflow.apa
 
 1. **Clone the repository**  
    ```sh
-   git clone <https://github.com/msremigio/apache-airflow-dags.git>
+   git clone https://github.com/msremigio/apache-airflow-dags.git
    cd docker-run-airflow
    ```
 
@@ -103,9 +108,4 @@ This project provides an ETL pipeline using [Apache Airflow](https://airflow.apa
 
 ## License
 
-See [LICENSE](LICENSE) for details.
-
-## Author
-
-Matheus Remigio  
-Contact: matheus.remido@gmail.com
+MIT License.
